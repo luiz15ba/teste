@@ -12,8 +12,8 @@
 
 @media (max-width: 400px){
   .box{
-    width:100px;
-    height:100px;
+    width:500px;
+    height:500px;
   }
 }
 @media (min-width: 500px){
